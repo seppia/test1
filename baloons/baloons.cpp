@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include <iapula.h>
+=======
+#include <math.h> pula pizda
+>>>>>>> zxcv
 #include "main.h"
 #include "baloons.h"
 
