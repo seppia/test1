@@ -1,4 +1,4 @@
-test1 - pula mea
+testu pulii mele - pula mea
 =====
 
 test repo
